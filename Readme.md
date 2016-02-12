@@ -1,1 +1,1 @@
-http://gingerlabs.tk/arduino-says-teil-1/
+https://gingerlabs.de/arduino-says-teil-1/
